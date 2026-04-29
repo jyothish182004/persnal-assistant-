@@ -1,0 +1,13 @@
+{
+  "name": "JARVIS AI Assistant",
+  "description": "A futuristic AI companion with real-time reply generation, risk detection, and controlled system access simulation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI-powered conversation",
+    "Real-time risk assessment",
+    "Futuristic HUD interface"
+  ]
+}
